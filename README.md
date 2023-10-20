@@ -142,12 +142,29 @@ This tutorial outlines the lifecycle of a ticket from intake to resolution withi
   <img width="579" alt="image" src="https://github.com/DamianPreslyPerera/osTicket-Ticket-Lifecycle/assets/89204562/6745c2b0-1af9-476e-9f01-b503d97811bd">
 
 - An optional message can be entered in as well
+- Click on "Transfer" to reassign the ticket over to the System Administrator's department
 
   <img width="578" alt="image" src="https://github.com/DamianPreslyPerera/osTicket-Ticket-Lifecycle/assets/89204562/27462f2b-16a9-4e9d-bf86-709bfedae62f">
 
 
 
+## Working the Issue
 
+- After logging in all the necessary information such as the Priority, Department, Assignee, and SLA plan, we can proceed to work on the actual issue that is presented in the ticket
+- For this demonstration, I will assume the the help desk agent "Jane Doe" has worked on solving the issue and is posting a reply/comment regarding the status of the ticket
+- The agent can give a repsonse to the ticket by typing in the "Response" section
+- The reply can be attached by clicking on "Post Reply"
+
+  <img width="577" alt="image" src="https://github.com/DamianPreslyPerera/osTicket-Ticket-Lifecycle/assets/89204562/6438f504-fe74-480f-80ec-0c39c4273e29">
+
+- The status of the ticket can now be viewed from the ticket dashboard
+
+  <img width="589" alt="image" src="https://github.com/DamianPreslyPerera/osTicket-Ticket-Lifecycle/assets/89204562/c48efc70-ed53-4538-81bd-73f9e9d4c77d">
+
+- Assuming that the help desk agent has worked on solving the ticket, the agent can go back into the ticket and mark it as "Solved" to close off the ticket 
+
+
+  
 
 
 
