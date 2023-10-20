@@ -131,9 +131,19 @@ This tutorial outlines the lifecycle of a ticket from intake to resolution withi
   <img width="573" alt="image" src="https://github.com/DamianPreslyPerera/osTicket-Ticket-Lifecycle/assets/89204562/f2e1d618-98f4-475a-8b30-7327101d21cc">
 
  
+- We can reassign/transfer this ticket to the appropriate department as well
+- Currently, the ticket is assigned to the "Support" Department, we can reassign it to a more appropriate department such as "System Adminstrators"
+- Click on the "Department" tab and click on "Support" to change the department
 
-  
+  <img width="573" alt="changedepartment" src="https://github.com/DamianPreslyPerera/osTicket-Ticket-Lifecycle/assets/89204562/98ab75a0-f3d1-491a-8219-3b7d6bcc6a3c">
 
+- Choose the "System Administrators" option from the drop down menu
+
+  <img width="579" alt="image" src="https://github.com/DamianPreslyPerera/osTicket-Ticket-Lifecycle/assets/89204562/6745c2b0-1af9-476e-9f01-b503d97811bd">
+
+- An optional message can be entered in as well
+
+  <img width="578" alt="image" src="https://github.com/DamianPreslyPerera/osTicket-Ticket-Lifecycle/assets/89204562/27462f2b-16a9-4e9d-bf86-709bfedae62f">
 
 
 
