@@ -22,7 +22,7 @@ This tutorial outlines the lifecycle of a ticket from intake to resolution withi
 - Working the Issue
 - Resolution
 
-<h2>Lifecycle Stages</h2>
+<h2>Lifecycle Stages - Ticket Intake</h2>
 
 - In this section, I will demonstrate the procedure that an end user will take to login to osTicket and create a ticket, which will then be worked on by a help desk agent
 - The user must first navigate to osTicket using the link and login to osTicket using their credentials
@@ -66,9 +66,16 @@ This tutorial outlines the lifecycle of a ticket from intake to resolution withi
   <img width="733" alt="image" src="https://github.com/DamianPreslyPerera/osTicket-Ticket-Lifecycle/assets/89204562/fa1e4867-1fdf-4941-954e-ab0a48682937">
 
 
+## Assignment and Communication
 
+- Now that the tickets have been opened, we can act as if we are the help desk agents and login to osTicket to view, manage/assign and resolve the open tickets in the ticket queue
+- Login to osTicket as a Help Desk Agent (Jane Doe) using the previously created credentials
 
+  <img width="776" alt="image" src="https://github.com/DamianPreslyPerera/osTicket-Ticket-Lifecycle/assets/89204562/ac814c2b-a4e8-4603-951d-4dbf0465686e">
 
+- Upon loggin in, the Help Desk Agent is able to view the newly created tickets of end users
+
+  <img width="776" alt="image" src="https://github.com/DamianPreslyPerera/osTicket-Ticket-Lifecycle/assets/89204562/d6de2ec0-9918-439f-88de-161127f80d98">
 
 
 
