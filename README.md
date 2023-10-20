@@ -195,11 +195,21 @@ This tutorial outlines the lifecycle of a ticket from intake to resolution withi
   <img width="577" alt="image" src="https://github.com/DamianPreslyPerera/osTicket-Ticket-Lifecycle/assets/89204562/018f54de-a88e-4da4-a540-3c3f2e638a90">
 
 - We can now view the ticket dashboard to see that the ticket has be assigned to "John" with a priority level of "High"
+- Since we are logged in as "Jane" we cannot work on a ticket that is assigned to "John"
+- We can work on the remaining ticket as Jane and log in separately as John to resolve his ticket
 
   <img width="588" alt="image" src="https://github.com/DamianPreslyPerera/osTicket-Ticket-Lifecycle/assets/89204562/fe5afc7e-7b82-42b9-940e-353dd007049a">
 
+- Click on the remaining ticket regarding the "Hardware Refresh" issue
 
+  <img width="584" alt="image" src="https://github.com/DamianPreslyPerera/osTicket-Ticket-Lifecycle/assets/89204562/88e0f139-4c4f-4c8f-82a5-1113af2975ee">
 
+- We can set the settings for this ticket as below
+    - Priority: Low
+    - Assigned To: Jane Doe
+    - SLA: SEV-c
+
+  <img width="579" alt="image" src="https://github.com/DamianPreslyPerera/osTicket-Ticket-Lifecycle/assets/89204562/f8c4f7da-8b91-4929-9d9a-3743cf3e1114">
 
 
 
