@@ -148,7 +148,7 @@ This tutorial outlines the lifecycle of a ticket from intake to resolution withi
 
 
 
-## Working the Issue
+## Working the Issue/Resolution
 
 - After logging in all the necessary information such as the Priority, Department, Assignee, and SLA plan, we can proceed to work on the actual issue that is presented in the ticket
 - For this demonstration, I will assume the the help desk agent "Jane Doe" has worked on solving the issue and is posting a reply/comment regarding the status of the ticket
@@ -161,10 +161,58 @@ This tutorial outlines the lifecycle of a ticket from intake to resolution withi
 
   <img width="589" alt="image" src="https://github.com/DamianPreslyPerera/osTicket-Ticket-Lifecycle/assets/89204562/c48efc70-ed53-4538-81bd-73f9e9d4c77d">
 
-- Assuming that the help desk agent has worked on solving the ticket, the agent can go back into the ticket and mark it as "Solved" to close off the ticket 
+- Assuming that the help desk agent has worked on solving the ticket, the agent can go back into the ticket and add an additional message and mark it as "Solved" to close off the ticket 
+- Click on the ticket and scroll down to the "Reply" section to post a message regarding how the problem was solved
+- From the scrolldown menu, choose the option "Resolved" to finalize the ticket
+- Click "Post Reply" afterwards
+
+  <img width="576" alt="ticketresolve" src="https://github.com/DamianPreslyPerera/osTicket-Ticket-Lifecycle/assets/89204562/cb29a0e6-b9ad-4a25-8943-000093595c7c">
+
+- The ticket has been resolved and is no longer visible on the dashboard of open tickets
+
+  <img width="586" alt="image" src="https://github.com/DamianPreslyPerera/osTicket-Ticket-Lifecycle/assets/89204562/7e685fe1-f74e-427e-a647-37b8a5bd5113">
+
+- However, the ticket can still be viewed by clicking on the tab "Closed"
+- This may be helpful to use as troubleshooting documentation for future reference if a similar problem occurs
+
+  <img width="592" alt="image" src="https://github.com/DamianPreslyPerera/osTicket-Ticket-Lifecycle/assets/89204562/509feb02-e0d0-4845-9629-520644cd39b1">
+
+## Repeat Procedure
+
+- Using this same procedure, we can make our way through the rest of the tickets as well
+- We can go back to the ticket que and view the remaining tickets
+
+  <img width="592" alt="image" src="https://github.com/DamianPreslyPerera/osTicket-Ticket-Lifecycle/assets/89204562/387e4f16-4e6d-4597-8682-666c20a990f3">
+
+- We can click on a ticket and configure its settings such as its priority and who it is assigned to just as before
+- Click on the ticket regarding "Adobe Reader"
+- Change the priority and SLA plan and then assign the ticket to the help desk agent "John" so that he can begin working on the ticket
+
+  <img width="575" alt="assigntojohn" src="https://github.com/DamianPreslyPerera/osTicket-Ticket-Lifecycle/assets/89204562/f0f3d119-591f-43e8-afc9-4539833205ed">
+
+- An additional note can be included as well
+
+  <img width="577" alt="image" src="https://github.com/DamianPreslyPerera/osTicket-Ticket-Lifecycle/assets/89204562/018f54de-a88e-4da4-a540-3c3f2e638a90">
+
+- We can now view the ticket dashboard to see that the ticket has be assigned to "John" with a priority level of "High"
+
+  <img width="588" alt="image" src="https://github.com/DamianPreslyPerera/osTicket-Ticket-Lifecycle/assets/89204562/fe5afc7e-7b82-42b9-940e-353dd007049a">
 
 
-  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
