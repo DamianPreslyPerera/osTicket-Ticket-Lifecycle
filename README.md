@@ -117,10 +117,21 @@ This tutorial outlines the lifecycle of a ticket from intake to resolution withi
 
   <img width="577" alt="slaupdate" src="https://github.com/DamianPreslyPerera/osTicket-Ticket-Lifecycle/assets/89204562/61958935-c168-4357-a237-a7c58b8d164e">
 
-  
 - Since the ticket has a priority level of "Emergency" we can set the tickets SLA to "SEV-A"
 - The "SEV-A" SLA indicates that the ticket must be resolved within an hour on a 24/7 schedule
-  
+- We can also provide a brief note about the SLA level and indicate that it is a  "Business Impacting, Critical Incident"
+- Click on "Update" to put the changes into effect
+
+  <img width="578" alt="image" src="https://github.com/DamianPreslyPerera/osTicket-Ticket-Lifecycle/assets/89204562/b38766fa-88b8-4fd8-abf2-ffdd4ba80a0a"> <br />
+   
+  <img width="575" alt="image" src="https://github.com/DamianPreslyPerera/osTicket-Ticket-Lifecycle/assets/89204562/96215c01-8e63-4cd1-8df5-d840805d9650">
+
+- The SLA has now been updated succesfully
+
+  <img width="573" alt="image" src="https://github.com/DamianPreslyPerera/osTicket-Ticket-Lifecycle/assets/89204562/f2e1d618-98f4-475a-8b30-7327101d21cc">
+
+ 
+
   
 
 
