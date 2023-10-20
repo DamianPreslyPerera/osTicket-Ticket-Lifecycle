@@ -77,7 +77,23 @@ This tutorial outlines the lifecycle of a ticket from intake to resolution withi
 
   <img width="776" alt="image" src="https://github.com/DamianPreslyPerera/osTicket-Ticket-Lifecycle/assets/89204562/d6de2ec0-9918-439f-88de-161127f80d98">
 
+- As of now, all the tickets have a priority of "Normal" and none of them are assigned to any help desk agents
+- We will act as if we are a help desk lead and proceed to create priority levels and assign the tickets to help desk agents
+- We can begin by clicking on the ticket "Mobile Banking App Down" which is the first ticket that is in the queue
 
+  <img width="579" alt="firstticket" src="https://github.com/DamianPreslyPerera/osTicket-Ticket-Lifecycle/assets/89204562/606b1286-fb0e-471a-a072-a9bbab827abe">
+
+- By looking at the details of the ticket, we can see that the issue is regarding the customers being unable to access the bank application, and since this can have a major negative impact on the business if it is not resolved, we can assign a priority level of "Emergency" to this ticket
+- We can assign the priority level by clicking on the default priority level, which is currently set to "Normal"
+
+  <img width="581" alt="bankappdown" src="https://github.com/DamianPreslyPerera/osTicket-Ticket-Lifecycle/assets/89204562/98a477c5-e8af-4168-a78e-eb43ebe19141">
+
+- Update the priority level by choosing "Emergency" from the drop down menu
+
+  <img width="576" alt="image" src="https://github.com/DamianPreslyPerera/osTicket-Ticket-Lifecycle/assets/89204562/48c81965-871a-4a41-9c7e-73aa8eaff150">
+
+
+  
 
 
 
