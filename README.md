@@ -207,7 +207,7 @@ This tutorial outlines the lifecycle of a ticket from intake to resolution withi
 - We can set the settings for this ticket as below
     - Priority: Low
     - Assigned To: Jane Doe
-    - SLA: SEV-c <br />
+    - SLA: SEV-C <br />
 
 
   <img width="579" alt="image" src="https://github.com/DamianPreslyPerera/osTicket-Ticket-Lifecycle/assets/89204562/f8c4f7da-8b91-4929-9d9a-3743cf3e1114">
@@ -224,7 +224,10 @@ This tutorial outlines the lifecycle of a ticket from intake to resolution withi
   <img width="584" alt="image" src="https://github.com/DamianPreslyPerera/osTicket-Ticket-Lifecycle/assets/89204562/d0870d8d-5264-48ab-99a8-edcd162968f5">
 
 
+## Finalize Ticket Resolution as another Agent
 
+- Log out of "Jane Doe" and login to the "John Doe" account
+- Upon loggin in, the agent will see the ticket in the queue that was assigned for them
 
 
 
