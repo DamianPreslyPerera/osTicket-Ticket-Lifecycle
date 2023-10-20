@@ -92,10 +92,36 @@ This tutorial outlines the lifecycle of a ticket from intake to resolution withi
 
   <img width="576" alt="image" src="https://github.com/DamianPreslyPerera/osTicket-Ticket-Lifecycle/assets/89204562/48c81965-871a-4a41-9c7e-73aa8eaff150">
 
+- We can also create a note for the priority level as well
+- Click "Update" to assign the new priority level to the ticket
+
+  <img width="574" alt="image" src="https://github.com/DamianPreslyPerera/osTicket-Ticket-Lifecycle/assets/89204562/f0bd2beb-acec-4e0f-b615-b07b9e8216c2">
+
+- The ticket's priortiy level has now been elevated to "Emergency"
+
+  <img width="577" alt="image" src="https://github.com/DamianPreslyPerera/osTicket-Ticket-Lifecycle/assets/89204562/d2a60173-92c3-4a83-85c1-5a35cacb3095">
+
+- We can now proceed to assign the ticket to a help desk agent
+- Click on the "Unassigned" tab to assign a help desk agent
+
+  <img width="578" alt="unassigned" src="https://github.com/DamianPreslyPerera/osTicket-Ticket-Lifecycle/assets/89204562/d68433e2-29d1-4fee-b342-0a7f7d0f9141">
+
+- The help desk agent can assign the ticket to themselves
+- In this scenario, Jane Doe is both the help desk lead as well as an agent so they can assign the ticket to themselves
+- Click "Assign" to assign the ticket 
+
+  <img width="577" alt="image" src="https://github.com/DamianPreslyPerera/osTicket-Ticket-Lifecycle/assets/89204562/e79cd4fb-5ec5-4c4f-b49a-c5059f657910">
+
+- We can now proceed to update the SLA (Service Level Agreement)
+- Click on the "Default SLA" tab to update the SLA
+
+  <img width="577" alt="slaupdate" src="https://github.com/DamianPreslyPerera/osTicket-Ticket-Lifecycle/assets/89204562/61958935-c168-4357-a237-a7c58b8d164e">
 
   
-
-
+- Since the ticket has a priority level of "Emergency" we can set the tickets SLA to "SEV-A"
+- The "SEV-A" SLA indicates that the ticket must be resolved within an hour on a 24/7 schedule
+  
+  
 
 
 
