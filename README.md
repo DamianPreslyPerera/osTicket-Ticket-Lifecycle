@@ -207,11 +207,21 @@ This tutorial outlines the lifecycle of a ticket from intake to resolution withi
 - We can set the settings for this ticket as below
     - Priority: Low
     - Assigned To: Jane Doe
-    - SLA: SEV-c
+    - SLA: SEV-c <br />
+
 
   <img width="579" alt="image" src="https://github.com/DamianPreslyPerera/osTicket-Ticket-Lifecycle/assets/89204562/f8c4f7da-8b91-4929-9d9a-3743cf3e1114">
 
+- We can insert a message as well
+- Since this a simple issue, it can be marked as "Resolved" straight away
+- Click "Post Reply" to finalize the ticket
 
+  <img width="576" alt="image" src="https://github.com/DamianPreslyPerera/osTicket-Ticket-Lifecycle/assets/89204562/fbba90f5-9bcb-47ba-892f-7da26b5c2af9">
+
+- When we go back into the ticket queue, the only ticket that is left is the one assigned to John
+- We can log in as John separately and get to work on the remaining ticket
+
+  <img width="584" alt="image" src="https://github.com/DamianPreslyPerera/osTicket-Ticket-Lifecycle/assets/89204562/d0870d8d-5264-48ab-99a8-edcd162968f5">
 
 
 
