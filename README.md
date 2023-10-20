@@ -43,12 +43,27 @@ This tutorial outlines the lifecycle of a ticket from intake to resolution withi
 
   <img width="731" alt="createticket" src="https://github.com/DamianPreslyPerera/osTicket-Ticket-Lifecycle/assets/89204562/8c08546b-8f3a-4835-a72a-fc9ce1b87b37">
 
+- The user will be presented with this confirmation page
 
+  <img width="773" alt="image" src="https://github.com/DamianPreslyPerera/osTicket-Ticket-Lifecycle/assets/89204562/758c4535-ea89-46a8-b4a7-9e12164cc09d">
+
+
+- Using the same procedure, another user can create a ticket to log their issue as well 
   
+  <img width="774" alt="image" src="https://github.com/DamianPreslyPerera/osTicket-Ticket-Lifecycle/assets/89204562/e6d089f6-a7c1-4c9a-97f9-aefa81471b31">
 
-  
+- The user will be presented with a confirmation page as well
 
+  <img width="776" alt="image" src="https://github.com/DamianPreslyPerera/osTicket-Ticket-Lifecycle/assets/89204562/fe4f7487-fb3f-4829-93f5-c3ec7ba1e136">
 
+- A user can create multiple tickets as well, they can provide the same contact information and choose another Help Topic and Issue.
+- In this instance, the previous user "Tania Smith" is opening up another ticket under the Help Topic "General Inquiry" regarding a status update on a "Hardware Refresh"
+
+  <img width="731" alt="image" src="https://github.com/DamianPreslyPerera/osTicket-Ticket-Lifecycle/assets/89204562/fc403486-5fbf-4e26-aeda-c9357747efec">
+
+- The user is presented with a confirmation page for their additional ticket as well
+
+  <img width="733" alt="image" src="https://github.com/DamianPreslyPerera/osTicket-Ticket-Lifecycle/assets/89204562/fa1e4867-1fdf-4941-954e-ab0a48682937">
 
 
 
