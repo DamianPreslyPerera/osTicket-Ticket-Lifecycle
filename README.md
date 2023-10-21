@@ -227,9 +227,32 @@ This tutorial outlines the lifecycle of a ticket from intake to resolution withi
 ## Finalize Ticket Resolution as another Agent
 
 - Log out of "Jane Doe" and login to the "John Doe" account
+
+  <img width="734" alt="image" src="https://github.com/DamianPreslyPerera/osTicket-Ticket-Lifecycle/assets/89204562/48a61f8e-27b4-44b2-bc6d-400b5a52bb7f">
+
 - Upon loggin in, the agent will see the ticket in the queue that was assigned for them
 
+  <img width="604" alt="image" src="https://github.com/DamianPreslyPerera/osTicket-Ticket-Lifecycle/assets/89204562/79d98fba-b742-431c-9ded-67871807cd46">
 
+- When clicked on the ticket, John will be able to view information about the ticket such as its priority, SLA plan and any notes
+
+  <img width="580" alt="image" src="https://github.com/DamianPreslyPerera/osTicket-Ticket-Lifecycle/assets/89204562/1f1cd9b7-733e-4f62-b94e-57148b5157a7">
+
+- We can assume that John began to work on the issue and is now entering in a note describing the work he has performed
+- After the note is created, John can mark the ticket as "Resolved", finalizing the ticket
+
+  <img width="574" alt="image" src="https://github.com/DamianPreslyPerera/osTicket-Ticket-Lifecycle/assets/89204562/8725f94e-c6a1-45a1-814f-bf7a7c30f786">
+
+- When John views the ticket queue, there are no more tickets present
+
+  <img width="594" alt="image" src="https://github.com/DamianPreslyPerera/osTicket-Ticket-Lifecycle/assets/89204562/5ff5cee3-ab4b-4d76-ac8b-e8a3d123e0e7">
+
+## Final
+
+- I have demonstrated the process of a ticket lifecycle from ticket creation to resolution..
+
+
+  
 
 
 
