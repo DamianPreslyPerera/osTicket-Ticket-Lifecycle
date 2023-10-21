@@ -3,7 +3,8 @@
 </p>
 
 <h1>osTicket - Ticket Lifecycle: Intake Through Resolution</h1>
-This tutorial outlines the lifecycle of a ticket from intake to resolution within the open-source help desk ticketing system osTicket.<br />
+
+This project provides an in-depth tutorial that guides users through the entire journey of a support ticket within the open-source help desk system, osTicket. Operating within a Microsoft Azure environment with Virtual Machines and Compute resources, the project utilizes technologies like Remote Desktop and Internet Information Services (IIS) to illustrate each critical stage in the ticket's lifecycle. Beginning with the initial intake, it navigates through the subsequent phases of assignment and communication, followed by actively addressing the issue, resulting in a comprehensive resolution. This tutorial, operating on the Windows 10 (21H2) platform, offers a comprehensive view of how osTicket manages and streamlines the support ticket process.<br />
 
 <h2>Environments and Technologies Used</h2>
 
