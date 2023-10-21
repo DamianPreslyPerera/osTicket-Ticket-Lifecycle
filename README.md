@@ -249,7 +249,9 @@ This tutorial outlines the lifecycle of a ticket from intake to resolution withi
 
 ## Final
 
-- I have demonstrated the process of a ticket lifecycle from ticket creation to resolution..
+- I have demonstrated the process of a ticket lifecycle from ticket creation to resolution.
+- The procedure for assigning priority level and creating SLAs have been demonstrated.
+- This ticketing system is similar to those used in industry, implementing the entire system from scratch provides an in depth understanding of how ticketing systems are used and implemented.
 
 
   
