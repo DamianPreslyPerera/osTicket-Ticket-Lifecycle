@@ -250,9 +250,9 @@ This project provides an in-depth tutorial that guides users through the entire 
 
 ## Final
 
-- I have demonstrated the process of a ticket lifecycle from ticket creation to resolution.
-- The procedure for assigning priority levels and creating SLAs, tickets and assigning tickets to agents are demonstrated.
-- This ticketing system is similar to those used in industry, implementing the entire system from scratch provides an in depth understanding of how ticketing systems are used and implemented.
+- This demonstration provides a comprehensive overview of the ticket lifecycle, from ticket creation to successful resolution. It covers key aspects, including the establishment of priority levels, the creation of service level agreements (SLAs), ticket generation, and the assignment of tickets to agents.
+
+- By showcasing a ticketing system that closely mirrors industry standards, this presentation offers an invaluable opportunity to gain a profound understanding of how ticketing systems are both utilized and implemented from the ground up.
 
 
   
